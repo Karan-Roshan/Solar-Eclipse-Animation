@@ -4,7 +4,7 @@ The project uses pure CSS animations, gradients, and shadows to create a glowing
 
 
 # Demo
-<img src="Solar-Eclipse-Animation/Solar Eclipse Animation.png" alt="Solar Eclipse Animation Demo" width="500"/>
+<img src="https://github.com/Karan-Roshan/Solar-Eclipse-Animation/blob/5b57974cde2c46813c10e3c0dee7455ffe64f08e/Solar%20Eclipse%20Animation.png" alt="Solar Eclipse Animation Demo" width="500"/>
 
 
 # Project Structure
